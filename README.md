@@ -3,8 +3,8 @@
 <p><sub> PHATHISA NDALISO · LIVE</sub></p>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=PhathisaNdaliso&theme=aurora&avatar=https%3A%2F%2Fgithub.com%2FPhathisaNdaliso.png&variant=living-identity&label=Phathisa%20Ndaliso&v=wow-living-identity-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=PhathisaNdaliso&theme=aurora&avatar=https%3A%2F%2Fgithub.com%2FPhathisaNdaliso.png&variant=living-identity&label=Phathisa%20Ndaliso&v=wow-living-identity-1&mode=dark" width="100%" alt="Phathisa Ndaliso animated Living Identity portrait and ASCII name" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=octocat&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F583231%3Fu%3Da59fef2a493e2b67dd13754231daf220c82ba84d%26v%3D4&variant=living-identity&label=The%20Octocat&v=wow-living-identity-1&mode=light" />
+ <img src="https://www.gitskins.com/api/section/hero?username=PhathisaNdaliso&theme=aurora&avatar=https%3A%2F%2Fgithub.com%2FPhathisaNdaliso.png&variant=living-identity&label=Phathisa%20Ndaliso&v=wow-living-identity-1&mode=dark" width="100%" alt="Phathisa Ndaliso animated Living Identity portrait and ASCII name" />
 </picture>
 <p><strong>Junior Full-Stack Software Developer</strong> · Johannesburg, South Africa</p>
 <p>Building robust backend services, full-stack applications, and AI-driven workflows.</p>
